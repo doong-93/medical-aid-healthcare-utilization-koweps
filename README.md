@@ -1,4 +1,4 @@
-# Medical Aid transitions and health care utilization
+# Medical Aid transitions and health care utilization (Korea Welfare Panel Study)
 
 This folder contains a SAS analysis workflow for the comparison of transitions from National Health Insurance (NHI) to Medical Aid (MA) type I or type II with continued NHI coverage in the Korea Welfare Panel Study (KoWePS).
 
